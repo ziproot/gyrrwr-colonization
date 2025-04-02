@@ -1,0 +1,32 @@
+system Tupa
+	pos -759.778 203.222
+	government Uninhabited
+	attributes gyrrwr
+	arrival 1135
+	habitable 1135
+	asteroids "small rock" 6 5.922
+	asteroids "medium rock" 58 4.032
+	asteroids "large rock" 22 3.213
+	asteroids "small metal" 16 5.103
+	asteroids "medium metal" 50 5.607
+	asteroids "large metal" 1 4.851
+	mineables "iron" 8 4.64499
+	object
+		sprite star/g0
+		period 10
+	object
+		sprite planet/gas0-hot
+		distance 196.3
+		period 77.9
+	object
+		sprite planet/rock17-b
+		distance 588.26
+		period 233.725
+	object Mirror
+		sprite planet/forest12
+		distance 1218.3
+		period 483.53
+	object
+		sprite planet/ice8
+		distance 4004.9
+		period 1589.535
