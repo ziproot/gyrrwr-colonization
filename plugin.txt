@@ -1,2 +1,2 @@
 name "Gyrrwr Colonization"
-about "An alien species of sentient parasitic flatworms. Don't worry about being infected; they're an alternate chirality."
+about "An alien species of sentient commensalistic flatworms with left chirality sugars and right chirality proteins"
