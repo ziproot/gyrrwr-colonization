@@ -1,6 +1,6 @@
 planet Mirror
 	attributes gyrrwr uninhabited
 	landscape land/forest17
-	description `On first glance, Mirror appears no different from the many other habitable planets found in human space. The only land on this planet consists of a lush jungle filled with along the equator, and is otherwise completely surrounded by ocean. The jungle is filled with plants and animals that appear similar to large birds, crabs, or other creatures on Earth.`
+	description `On first glance, Mirror appears no different from the many other habitable planets found in human space. This planet has a lush jungle along the equator, and is otherwise completely surrounded by ocean. The jungle is filled with plants and animals that appear similar to large birds, crabs, or other creatures on Earth.`
 	description `	However, these lifeforms, upon further examination, contain proteins of the opposite chirality to that of organisms on other planets in human space, making settlement difficult, if not outright impossible.`
 	security 0
