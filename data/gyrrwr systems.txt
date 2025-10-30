@@ -10,7 +10,7 @@ system Tupa
 	asteroids "small metal" 16 5.103
 	asteroids "medium metal" 50 5.607
 	asteroids "large metal" 1 4.851
-	mineables "iron" 8 4.64499
+	minables "iron" 8 4.64499
 	object
 		sprite star/g0
 		period 10
