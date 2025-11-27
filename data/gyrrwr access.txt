@@ -1,0 +1,33 @@
+mission "Pug Magic"
+	invisible
+	landing
+	non-blocking
+	to complete
+		never
+	on enter "Tupa"
+		event "pug magic"
+		fail
+
+event "pug magic"
+	system "Sagittarius A*"
+		remove object "Sagittarius A* Core"
+			sprite star/black-hole-core
+			period 1
+		add object
+			sprite star/black-hole-core
+			period 1
+
+system "Sagittarius A*"
+	remove object
+		sprite star/black-hole-core
+		period 1
+	add object "Sagittarius A* Core"
+		sprite star/black-hole-core
+		period 1
+
+planet "Sagittarius A* Core"
+	wormhole "sagittarius a* core"
+	attributes "requires: pug magic"
+
+wormhole "sagittarius a* core"
+	link "Sagittarius A*" "Tupa"

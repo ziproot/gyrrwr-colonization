@@ -1,4 +1,5 @@
 system Tupa
+	hidden
 	pos -759.778 203.222
 	government Uninhabited
 	attributes gyrrwr
